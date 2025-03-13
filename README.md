@@ -1,4 +1,3 @@
-123
 # Домашнее задание к занятию «Кеширование Redis/memcached» - Кощеев Иван
 
 ### Задание 1. Кеширование 
@@ -89,7 +88,7 @@
 
 <details>
 
-
+![image3](https://github.com/SirSeoPro/10-02/blob/main/3.png)
 
 </details>
 

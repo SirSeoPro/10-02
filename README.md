@@ -56,8 +56,8 @@
 ### Ответ:
 
 <details>
-
-https://github.com/SirSeoPro/10-02/blob/main/1.png
+  
+![image1](https://github.com/SirSeoPro/10-02/blob/main/1.png)
 
 </details>
 

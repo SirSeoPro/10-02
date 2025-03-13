@@ -73,7 +73,7 @@
 
 <details>
 
-
+![image2](https://github.com/SirSeoPro/10-02/blob/main/2.png)
 
 </details>
 
